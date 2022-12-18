@@ -2,9 +2,10 @@
 Welcome to my Invincible Alien tracker. You can use this app to find out a ton of information about your favoite alien characters from Invincible. This is a fun interactive app that users can play with and it has a very cool futuristic design.
 
 **Link to live project:** https://invincible-tracker.netlify.app
+
 **Link to Github project:** https://github.com/DominikJ22/invincble-app
 
-<img width="475" src="space.gif" alt="space.gif"/>
+<img width="475" src="invi.gif" alt="space.gif"/>
 
 ## How It's Made:
 
