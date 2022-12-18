@@ -3,7 +3,7 @@ Welcome to my Invincible Alien tracker. You can use this app to find out a ton o
 
 **Link to project:** https://invincible-tracker.netlify.app or https://github.com/DominikJ22/invincble-app
 
-![alt tag]https://github.com/DominikJ22/DominikJ22/blob/main/invi.gif
+![alt tag]invi.gif
 
 ## How It's Made:
 
