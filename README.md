@@ -7,7 +7,7 @@ Welcome to my Invincible Alien tracker. You can use this app to find out a ton o
 
 
 <p align="center">
-<img width="500"  height="500"  src="invi.gif" alt="space.gif"/> 
+<img width="500" src="invi.gif" alt="space.gif"/> 
 </p>
 
 
