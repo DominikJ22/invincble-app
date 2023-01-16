@@ -3,7 +3,7 @@ document.querySelector('#getButton').addEventListener('click', apiRequest)
 async function apiRequest(){
     const charName = document.querySelector('input').value
     try{
-        const response = await fetch( `https:/puce-powerful-trout.cyclic.app/api/:${charName}`)
+        const response = await fetch( `https://invincible-o7rr.onrender.com/`)
         const data = await response.json()
         console.log(data)
         
