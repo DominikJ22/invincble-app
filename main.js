@@ -15,6 +15,7 @@ async function apiRequest(){
         document.getElementById('alienAbilities').innerText = data.
         Abilities
        document.getElementById('alienImage').src = data.image
+       document.getElementById('alienCaption').innerText = data.speciesName
        
     }catch(error) {
         console.log(error)
